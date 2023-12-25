@@ -1,16 +1,21 @@
 let texts = [
-  "Ankietowanie 90% Polaków...",
-  "Zbieranie informacji z grupek na Facebooku...",
-  "Szukanie odpowiedzi wśród amerykańskich naukowców...",
-  "Analizowanie wiekowych tekstów kultury...",
-  "Rozwiązywanie ogromnych układów równań...",
-  "Przeszukiwanie wszystkich zakątków świata...",
-  "Proszenie o pomoc NASA...",
-  "Szukanie eksperta w tej dziedzinie na TikToku...",
+  "Ankietowanie 90% Polaków... i innych ludziów...",
+  "Zbieranie informacji z grupek na Facebooku... i pornhub'ie...",
+  "Szukanie odpowiedzi wśród amerykańskich naukowców... i gwiazd porno...",
+  "Analizowanie wiekowych tekstów kultury... omg serio?...",
+  "Rozwiązywanie ogromnych układów równań... takich jak 2 + 2 = 5...",
+  "Przeszukiwanie wszystkich zakątków świata... i kosmosu...",
+  "Proszenie o pomoc NASA... i osób spoza tej planety...",
+  "Szukanie eksperta w tej dziedzinie na TikToku... i na yt...",
   'Wywieszanie ulotek "Zaginęła osoba, która pytała. Prosimy o kontakt"...',
-  "Robienie dobrych uczynków...",
-  "Bycie miłym dla losowo napotkanego człowieka...",
-  "Ładowanie mocy przyjaźni..."
+  "Pytanie mniejszości narodowych... i większości narodowych...",
+  "Zbieranie informacji z nielegalnych źródeł... oo. darkweb :)...",
+  "Proszenie o pomoc istot pozaziemskich... i nikogo więcej bo po co...",
+  "Ruchanie ci matki... i ojca...",
+  'Wywieszanie ulotek "Zaginęła osoba, która pytała. Prosimy o kontakt"... proszę dzwonic po odnalezieniu, 694202137...',
+  "Robienie dobrych uczynków... i tych złych też...",
+  "Bycie miłym dla losowo napotkanego człowieka... ale nie na serio...",
+  "Ładowanie mocy przyjaźni... i mocy srania..."
 ];
 
 function randomText(){
@@ -26,7 +31,7 @@ function done(){
   const am = Math.random() < 0.5;
 
   if (am) // 50%
-    $("#wynik").html("Ja pytałam 😊");
+    $("#wynik").html("Ja nie pytałem 😊");
 
   $("#pre-kto").fadeOut();
   $("#after-kto").fadeIn();
