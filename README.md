@@ -1,5 +1,5 @@
 ## https://ktopytal.info
-This amazing site will respond to the greatest question in history: **who asked?**
+This amazing site will respond to the greatest question in history: **who asked?** but it will not? idk anymore
 
 (In Polish)
 
