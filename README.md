@@ -1,4 +1,4 @@
-## https://ktopytal.info
+## [https://ktoNIEpytal.info](https://borys9975.github.io/ktoNIEpytal.info/)
 This amazing site will respond to the greatest question in history: **who asked?** but it will not? idk anymore
 
 (In Polish)
