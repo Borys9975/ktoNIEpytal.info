@@ -42,7 +42,7 @@ $(document).ready(function(){
 
   // [sec]
   const INTERVAL = 2;
-  const DURATION = 10
+  const DURATION = 20
 
   let is_done = false;
 
